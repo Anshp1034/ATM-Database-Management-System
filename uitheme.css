@@ -1,0 +1,25 @@
+body
+{
+	background-image:url(bg.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+    height: 100%
+
+}
+    footer {
+    background-color: #26c6da;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 30px;
+    width: 100%;
+    overflow: hidden;
+}
+    .white{
+        color: white;
+    }
+.logo{
+    width:device width;
+	height:120px;
+}
